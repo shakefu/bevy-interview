@@ -11,6 +11,20 @@ python main.py [arg]
 
 ... Where argument is a string
 
+### Running tests
+
+First install the `nose` package:
+
+```bash
+pip install nose
+```
+
+Then run nosetests:
+
+```bash
+nosestests -vs test/
+```
+
 
 ## API documentation
 
