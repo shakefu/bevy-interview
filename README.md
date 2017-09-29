@@ -1,7 +1,10 @@
 # bevy-interview
-Code from doing Bevy interview
+Code from doing the Bevy interview.
 
 ## Usage
+
+This script will print out all permutations of a string, one per line. It also
+exports an API for doing this in code.
 
 Check out the repository and run with:
 
