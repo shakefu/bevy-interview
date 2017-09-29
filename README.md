@@ -16,7 +16,7 @@ python main.py [arg]
 
 This package exports one module, poorly named "main".
 
-### `main.permute(`*`arg`*`)
+### `main.permute(`*`arg`*`)`
 
 Returns a list of permutations of the string `arg`.
 
