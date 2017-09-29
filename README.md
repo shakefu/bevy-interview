@@ -25,7 +25,7 @@ pip install nose
 Then run nosetests:
 
 ```bash
-nosestests -vs test/
+nosetests -vs test/
 ```
 
 
